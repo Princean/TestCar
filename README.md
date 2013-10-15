@@ -33,6 +33,7 @@ public class TestCar
 		
 		catch(Exception e)
 		{
+		    e.printStackTrace();
 		}
     }
 }
